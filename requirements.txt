@@ -1,1 +1,2 @@
 git+https://github.com/Zakhar-the-Robot/brain_pycore.git@feature/can_send
+pynput
